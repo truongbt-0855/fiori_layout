@@ -26,8 +26,9 @@
         "dependencies": {
             "minUI5Version": "1.108.0",
             "libs": {
-                "sap.ui.core": {},
-                "sap.m": {}
+                "sap.f": {},
+                "sap.m": {},
+                "sap.ui.core": {}
             }
         },
         "models": {
@@ -43,6 +44,7 @@
         "rootView": {
             "viewName": "fiori.layout.view.App",
             "type": "XML",
+            "async": true,
             "id": "app"
         }
     }
