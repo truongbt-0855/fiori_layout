@@ -1,0 +1,23 @@
+{
+  "name": "fiori_layout",
+  "version": "1.0.0",
+  "main": "index.js",
+    "scripts": {
+    "start": "ui5 serve -o index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/truongbt-0855/fiori_layout.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/truongbt-0855/fiori_layout/issues"
+  },
+  "homepage": "https://github.com/truongbt-0855/fiori_layout#readme",
+  "devDependencies": {
+    "@ui5/cli": "^4",
+    "@ui5/linter": "^1.13.1"
+  },
+  "description": ""
+}
