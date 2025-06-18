@@ -3,20 +3,20 @@
     "fileType": "change",
     "changeType": "propertyChange",
     "moduleName": "",
-    "reference": "genereator.genereator",
+    "reference": "genereator",
     "packageName": "",
     "content": {
         "property": "displayShape",
         "newValue": "Circle"
     },
     "selector": {
-        "id": "genereator.genereator::sap.suite.ui.generic.template.ObjectPage.view.Details::SEPMRA_C_PD_Product--objectImage",
+        "id": "genereator::sap.suite.ui.generic.template.ObjectPage.view.Details::SEPMRA_C_PD_Product--objectImage",
         "idIsLocal": false,
         "type": "sap.f.Avatar"
     },
     "layer": "CUSTOMER_BASE",
     "texts": {},
-    "namespace": "apps/genereator.genereator/changes/",
+    "namespace": "apps/genereator/changes/",
     "projectId": "",
     "creation": 1750235177027,
     "originalLanguage": "",

@@ -3,8 +3,9 @@ sap.ui.define(
     function (Component) {
         "use strict";
 
-        return Component.extend("genereator.genereator.Component", {
+        return Component.extend("genereator.Component", {
             metadata: {
+                interfaces: ["sap.ui.core.IAsyncContentCreation"],
                 manifest: "json"
             }
         });
