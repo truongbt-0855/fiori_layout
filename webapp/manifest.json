@@ -61,7 +61,7 @@
     }
   },
   "sap.ui5": {
-    "flexEnabled": true,
+    "flexEnabled": false,
     "dependencies": {
       "minUI5Version": "1.84.14",
       "libs": {
@@ -120,8 +120,8 @@
       "showDraftToggle": false,
       "tableColumnVerticalAlignment": "Bottom",
       "flexibleColumnLayout": {
-        "defaultTwoColumnLayoutType": "TwoColumnsMidExpanded",
-        "defaultThreeColumnLayoutType": "ThreeColumnsEndExpanded"
+        "defaultTwoColumnLayoutType": "TwoColumnsBeginExpanded",
+        "defaultThreeColumnLayoutType": "ThreeColumnsMidExpanded"
       }
     },
     "pages": {
